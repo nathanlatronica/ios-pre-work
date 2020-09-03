@@ -2,4 +2,4 @@
 Codepath course Pre work
 
 
-http://g.recordit.co/IdOnTKEj6X.gif
+<img src"http://g.recordit.co/IdOnTKEj6X.gif">
