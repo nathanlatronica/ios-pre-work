@@ -2,4 +2,4 @@
 Codepath course Pre work
 
 
-<img src"http://g.recordit.co/IdOnTKEj6X.gif">
+<img src"http://g.recordit.co/ZB5er9vngh.gif" width = 200>
